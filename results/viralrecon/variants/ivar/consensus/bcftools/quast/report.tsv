@@ -1,0 +1,56 @@
+Assembly	ERR5743893.consensus	ERR5556343.consensus	SRR13500958.consensus	ERR5181310.consensus	ERR5405022.consensus
+# contigs (>= 0 bp)	1	1	1	1	1
+# contigs (>= 1000 bp)	1	1	1	1	1
+# contigs (>= 5000 bp)	1	1	1	1	1
+# contigs (>= 10000 bp)	1	1	1	1	1
+# contigs (>= 25000 bp)	1	1	1	1	1
+# contigs (>= 50000 bp)	0	0	0	0	0
+Total length (>= 0 bp)	29902	29894	29903	29830	29884
+Total length (>= 1000 bp)	29902	29894	29903	29830	29884
+Total length (>= 5000 bp)	29902	29894	29903	29830	29884
+Total length (>= 10000 bp)	29902	29894	29903	29830	29884
+Total length (>= 25000 bp)	29902	29894	29903	29830	29884
+Total length (>= 50000 bp)	0	0	0	0	0
+# contigs	1	1	1	1	1
+Largest contig	29902	29894	29903	29830	29884
+Total length	29902	29894	29903	29830	29884
+Reference length	29903	29903	29903	29903	29903
+GC (%)	37.93	37.96	37.98	37.92	37.97
+Reference GC (%)	37.97	37.97	37.97	37.97	37.97
+N50	29902	29894	29903	29830	29884
+NG50	29902	29894	29903	29830	29884
+N90	29902	29894	29903	29830	29884
+NG90	29902	29894	29903	29830	29884
+auN	29902.0	29894.0	29903.0	29830.0	29884.0
+auNG	29901.0	29885.0	29903.0	29757.2	29865.0
+L50	1	1	1	1	1
+LG50	1	1	1	1	1
+L90	1	1	1	1	1
+LG90	1	1	1	1	1
+# misassemblies	0	0	0	0	0
+# misassembled contigs	0	0	0	0	0
+Misassembled contigs length	0	0	0	0	0
+# local misassemblies	0	0	0	0	0
+# scaffold gap ext. mis.	0	0	0	0	0
+# scaffold gap loc. mis.	1	2	0	1	2
+# unaligned mis. contigs	0	0	0	0	0
+# unaligned contigs	0 + 0 part	0 + 0 part	0 + 0 part	0 + 0 part	0 + 0 part
+Unaligned length	0	0	0	0	0
+Genome fraction (%)	97.656	97.790	99.595	98.284	98.030
+Duplication ratio	1.000	1.000	1.000	0.999	0.999
+# N's per 100 kbp	2220.59	2114.14	404.64	1354.34	1977.65
+# mismatches per 100 kbp	92.46	116.31	73.87	95.35	116.06
+# indels per 100 kbp	3.42	3.42	0.00	17.03	13.65
+# genomic features	19 + 4 part	17 + 7 part	21 + 3 part	19 + 4 part	17 + 7 part
+Largest alignment	29201	29233	29782	29366	29295
+Total aligned length	29201	29233	29782	29366	29295
+NA50	29201	29233	29782	29366	29295
+NGA50	29201	29233	29782	29366	29295
+NA90	29201	29233	29782	29366	29295
+NGA90	29201	29233	29782	29366	29295
+auNA	28516.4	28586.6	29661.5	28909.2	28717.6
+auNGA	28515.5	28578.0	29661.5	28838.6	28699.4
+LA50	1	1	1	1	1
+LGA50	1	1	1	1	1
+LA90	1	1	1	1	1
+LGA90	1	1	1	1	1
